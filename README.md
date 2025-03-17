@@ -1,7 +1,3 @@
-Here’s the error-free version of your README.md content, fine-tuned for accuracy and professionalism:
-
----
-
  🌟 Ethereal - Side-Scrolling Portfolio Template
 
  🚀 Live Demo
